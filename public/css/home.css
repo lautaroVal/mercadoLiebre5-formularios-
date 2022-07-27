@@ -215,6 +215,7 @@ footer {
         border: 1px solid #141414;
         border-radius: 10px;
         width: 100%;
+        padding: 10px;
     }
 
     .header_div_form button {
@@ -222,7 +223,8 @@ footer {
         padding: 0;
         border: 1px solid #141414; 
         display: block;
-        /* align-self: center; */
+        padding: 10px 5px;
+        border-radius: 10px;
     }
 
     .header_div_form i {
